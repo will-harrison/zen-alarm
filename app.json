@@ -38,6 +38,13 @@
             "backgroundColor": "#000000"
           }
         }
+      ],
+      [
+        "expo-font",
+        {
+          "fonts": ["node_modules/@expo-google-fonts/montserrat/400Regular/Montserrat_400Regular.ttf", "node_modules/@expo-google-fonts/gabarito/400Regular/Gabarito_400Regular.ttf"
+        ]
+        }
       ]
     ],
     "experiments": {
